@@ -6,6 +6,8 @@
 ![ltm0203's github stats](https://github-readme-stats.vercel.app/api?username=ltm0203&show_icons=true)
 ![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=ltm0203)    
 
+[![HitCount](http://hits.dwyl.com/ltm0203/ltm0203.svg)](http://hits.dwyl.com/ltm0203/ltm0203)
+
 
 <!--
 **ltm0203/ltm0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
