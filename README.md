@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **ASP.NET Core， Web API, Angular，User Story，DDD, TypeScript; ABP**
 
-- 📫 How to reach me **werltm0203@hotmail.com**
+- 📫 How to reach me **werltm@hotmail.com**
 
 - ⚡ Fun fact **too young to die !**
 
