@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ltm0203&label=Profile%20views&color=0e75b6&style=flat" alt="ltm0203" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ltm0203" alt="ltm0203" /></a> </p>
 
-- 🌱 I’m currently learning **ASP.NET Core， Web API, Angular，User Story，DDD, TypeScript; ABP**
+- 🌱 I’m currently learning **DDD, User Story,ASP.NET Core,EF Core,ABP,Augular,TypeScript，Docker、Devops（持续集成、部署）**
 
 - 📫 How to reach me **werltm@hotmail.com**
 
